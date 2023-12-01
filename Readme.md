@@ -5,3 +5,5 @@ Repositório criado durante o curso.
 *1ª alteração*
 
 inclusão da linha pelo site do github
+
+[clique aqui](https://github.com/RosanaArioza)
